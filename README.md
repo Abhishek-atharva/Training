@@ -17,3 +17,9 @@ And Also Completed (Section-3) from #24 to Module #44.
 
 <!-- Section 4 : React State and working with events -->
 Completed Section - 4 (Full) from #45 to #61 Module, and Started Section - 5 alongwith and completed initial 2 Modules (#62 and #63). 
+
+<!-- Section 5 : Rendering Lists & Conditional Content -->
+Completed Section - 5 (Full) from where I left off #64 to #72 Module. 
+
+<!-- Section 6 : Styling React Components -->
+Completed Section - 6 (Full)from #73 to #81 Module.
