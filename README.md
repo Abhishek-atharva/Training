@@ -23,3 +23,9 @@ Completed Section - 5 (Full) from where I left off #64 to #72 Module.
 
 <!-- Section 6 : Styling React Components -->
 Completed Section - 6 (Full)from #73 to #81 Module.
+
+<!-- Section - 7 : Debugging React Apps -->
+Completed Section - 7 (Full) from #82 to #87 Module. 
+
+<!-- Section 8 : Time to Practice : A Complete Practice Project -->
+Completed Section - 8 (Full) from #88 to #98 Module. and also alongwith Made a small list Project as they've stated. 
