@@ -29,3 +29,6 @@ Completed Section - 7 (Full) from #82 to #87 Module.
 
 <!-- Section 8 : Time to Practice : A Complete Practice Project -->
 Completed Section - 8 (Full) from #88 to #98 Module. and also alongwith Made a small list Project as they've stated. 
+
+<!-- Section 9 : Diving Deeper : Working with Fragments,Portals and "Refs" -->
+Completed Section - 9 (Full) from #99 to #107 Module. and also Alongwith that Completed #108 to #113 Module of Section - 10.
