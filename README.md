@@ -32,3 +32,6 @@ Completed Section - 8 (Full) from #88 to #98 Module. and also alongwith Made a s
 
 <!-- Section 9 : Diving Deeper : Working with Fragments,Portals and "Refs" -->
 Completed Section - 9 (Full) from #99 to #107 Module. and also Alongwith that Completed #108 to #113 Module of Section - 10.
+
+<!-- Section 10 : Advanced : Handlling Side Effects, Using Reducers & Using the Context API -->
+Completed Section - 10 (Full) from #108 to #129 module and also alongwith Started Section - 11 and completed intial 2 modules. 
