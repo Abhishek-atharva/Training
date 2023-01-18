@@ -35,3 +35,12 @@ Completed Section - 9 (Full) from #99 to #107 Module. and also Alongwith that Co
 
 <!-- Section 10 : Advanced : Handlling Side Effects, Using Reducers & Using the Context API -->
 Completed Section - 10 (Full) from #108 to #129 module and also alongwith Started Section - 11 and completed intial 2 modules. 
+
+<!-- Section 11 : Practice Project : Building a Food Order App -->
+Completed Section - 11 (Full) from #130 to #149 Modules. 
+
+<!-- Section - 12 : A Look Behind The Scenes of React & Optimization Techniques -->
+Completed Section - 12 (Full) from #150 to #161 Modules.
+
+<!-- Section - 13 : Alternate Way of Building Components : Class-based Components -->
+Completed Section - 13 (Full) from #162 to #171 Modules.
