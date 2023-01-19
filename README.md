@@ -44,3 +44,9 @@ Completed Section - 12 (Full) from #150 to #161 Modules.
 
 <!-- Section - 13 : Alternate Way of Building Components : Class-based Components -->
 Completed Section - 13 (Full) from #162 to #171 Modules.
+
+<!-- Section - 14 : Sending Http Requests (e.g. Connecting to a Database)  -->
+Completed Section - 14 (Full) from #172 to #184 Modules.
+
+<!-- Section - 15 : Building Custom React Hooks -->
+Completed Section - 15 (Full) from #185 to #195 Module.
