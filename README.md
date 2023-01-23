@@ -55,4 +55,9 @@ Completed Section - 15 (Full) from #185 to #195 Module.
 Completed Section - 16 (Full) from #196 to #212 Modules.
 
 <!-- Section - 17 : Practice Project : Adding Http & Forms to the Food Order App -->
-Completed Section - 17 from #213 to #220 Modules.
+Completed Section - 17 from #213 to #220 Modules. Completed (Full) which are left #221 to #224.
+
+<!-- Section - 18 and Section - 19 (Skipped for now -- That is about Redux and Advanced Redux) -->
+
+<!-- Section - 20 : Building a Multi-Page SPA with React Router  -->
+Completed Section - 20 from #266 to 283 Modules.
