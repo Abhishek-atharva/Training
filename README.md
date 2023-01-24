@@ -60,4 +60,7 @@ Completed Section - 17 from #213 to #220 Modules. Completed (Full) which are lef
 <!-- Section - 18 and Section - 19 (Skipped for now -- That is about Redux and Advanced Redux) -->
 
 <!-- Section - 20 : Building a Multi-Page SPA with React Router  -->
-Completed Section - 20 from #266 to 283 Modules.
+Completed Section - 20 from #266 to 283 Modules. Also Completed (Full) #284 to #307.
+
+<!-- Section - 21 : Adding Authentication to React Apps  -->
+Completed Section - 21 (Full) from #337 Module to #350.
