@@ -64,3 +64,15 @@ Completed Section - 20 from #266 to 283 Modules. Also Completed (Full) #284 to #
 
 <!-- Section - 21 : Adding Authentication to React Apps  -->
 Completed Section - 21 (Full) from #337 Module to #350.
+
+<!-- Section - 22 Deploying React Apps -->
+
+Completed Section - 22 (Full) from #367 to #374 Modules.
+
+<!-- Section - 23 (Skipped for Now - That is About Next.Js) -->
+
+<!-- Section - 24 : Animating React Apps -->
+Completed Section - 24 (Full) from #417 to #432 Modules.
+
+<!-- Section - 25 : Replacing Redux with React Hooks -->
+That is Refresher of ContextAPI or Custom Hook. You can use Instead of Redux.
