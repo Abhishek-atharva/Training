@@ -76,3 +76,9 @@ Completed Section - 24 (Full) from #417 to #432 Modules.
 
 <!-- Section - 25 : Replacing Redux with React Hooks -->
 That is Refresher of ContextAPI or Custom Hook. You can use Instead of Redux.
+
+<!-- Section - 26 : Testing React Apps -->
+Completed Section - 26 (Full) from #448 to #461 Modules.
+
+<!-- Section - 27 : React + Typescript -->
+Completed Section - 27 (Full) from #462 to #487 Modules.
